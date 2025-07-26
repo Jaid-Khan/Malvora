@@ -1,6 +1,6 @@
 # ✈️ Malvora - Responsive Landing Page
 
-Welcome to Malvora, a modern, responsive travel landing page created as part of a frontend development task. This project demonstrates my skills in HTML, CSS, and responsive web design using only plain CSS (no frameworks).
+Welcome to Malvora, a modern, responsive travel landing page created as part of a frontend development task. This project demonstrates my skills in HTML, CSS, JS, and responsive web design using only plain CSS.
 
 ---
 
